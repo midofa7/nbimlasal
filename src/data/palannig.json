@@ -1,0 +1,150 @@
+{
+
+
+    "palannig":[
+        {
+            "jour":"Lundi",
+            "ItemPalannig":[
+                {
+                    "tetel":"pppllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"mardi",
+            "ItemPalannig":[
+                {
+                    "tetel":"llpllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"mercredi",
+            "ItemPalannig":[
+                {
+                    "tetel":"mmmpllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"Jeudi",
+            "ItemPalannig":[
+                {
+                    "tetel":"sspllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"vendredi",
+            "ItemPalannig":[
+                {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"Samedi",
+            "ItemPalannig":[
+                {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }, {
+            "jour":"dimanche",
+            "ItemPalannig":[
+                {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "tetel":"pllatveloe",
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }, {
+                    "hore":"19:30",
+                    "coche":"zakariyr"
+                }
+               ]
+        }
+    ]
+    
+    
+
+}

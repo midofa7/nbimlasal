@@ -1,0 +1,424 @@
+.mune .mune_site nav {
+    background-color: #ffffff;
+    width: 63%;
+    padding-left: 8%;
+    border-radius: 12px;
+}
+.mune .mune_site img {
+    width: 65px;
+    margin-left: 16px;
+}
+.block2 .itemmmdd.text-center {
+    padding: 5px 16%;
+}
+.block1 .element .fh5co-cover{
+   
+    background-image: url("../img/img1.png");
+}
+.block2 .team-section-grid.animate-box.fadeInUp.animated{
+    background-image: url("../img/img2.png")!important;
+     background-size: 99%;
+}
+
+.block1 .fh5co-cover, .fh5co-hero {
+    position: relative;
+    height: 738px;
+}
+
+
+.block1 .fh5co-cover, .fh5co-hero {
+    position: relative;
+    height: 744px;
+    background-size: 132%;
+}
+
+.block1 .fh5co-cover, .fh5co-hero {
+    position: relative;
+    height: 744px;
+}
+.block1 .fh5co-cover .desc span {
+    display: block;
+    margin-bottom: 25px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: fangsong;
+}
+
+.block1 .fh5co-cover .desc h2 {
+    color: #fff;
+    font-size: 57px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    line-height: 60px;
+    letter-spacing: 1px;
+}
+.avtivite .calsell.text-center .item img {
+    width: 20%;
+}
+.avtivite .calsell.text-center .item img {
+    width: 20%;
+    margin-left: 40%;
+}
+.avtivite .program.animate-box.fadeInUp.animated {
+    border: #e42e3a solid 3px;
+    margin: 7px 3%;
+    padding: 13px;
+    border-radius: 6px;
+}
+.avtivite .program.animate-box.fadeInUp.animated p {
+    font-size: 17px;
+    font-weight: 500;
+    font-family: initial;
+    line-height: 23px;
+    padding-bottom: 32px;
+    padding-top: 29px;
+}
+.avtivite .program.animate-box.fadeInUp.animated h3 {
+    font-size: 21px;
+    font-weight: 800;
+    font-family: inherit;
+}
+
+.avtivite .program.animate-box.fadeInUp.animated span a {
+    background-color: #e42e3a;
+    color: white;
+    padding: 7px 28px;
+}
+.avtivite .calsell.text-center .item img {
+    width: 80%;
+    margin-left: 9%;
+    border-radius: 20px;
+    height: 118px;
+}
+
+div#fh5co-programs-section {
+    padding-bottom: 21px;
+}
+.paje_activete_block2 .block-imag-sale {
+    text-align: center;
+}
+
+.paje_activete_block2 .block-imag-sale .tatele h3 {
+    font-size: 34px;
+    font-weight: 800;
+}
+div#myModal {
+    margin-top: 64px;
+}
+
+
+div#myModal img{
+    width: 70%;
+}
+
+    .paje_activete_block2 .block-imag-sale .btn-primary {
+    background: none;
+    color: #fff;
+    border: none !important;
+    border: 2px solid transparent !important;
+}
+.paje_activete_block2 .block-imag-sale .tatele p {
+    font-size: 19px;
+    font-weight: 300;
+}
+.palannig {
+    padding-top: 120px;
+}
+.row{
+    width: 100%;
+}.block1_p3 div#fh5co-schedule-section {
+    padding-top: 31px;
+}
+.block2_p3 div#fh5co-team-section {
+    padding-top: 0px;
+}
+
+.les__pack {
+    padding-top: 129px;
+}
+.les__pack div#fh5co-pricing-section {
+    padding-top: 40px;
+}
+.les__pack .item {
+    padding: 15px;
+}
+.block2_p3 .team-section-grid.animate-box.fadeInUp.animated img {
+    width: 99%;
+    height: 455px;
+}
+.mune .mune_site ul li a {
+    color: #e42e3a;
+    background-color: #fefefe;
+    font-size: 17px;
+    font-weight: 800;
+    margin-left: 0px;
+    border: none;
+}
+
+.mune .mune_site ul li a:hover{
+    color: #000!important;
+}
+.contctepage {
+    padding-top: 135px;
+}
+
+.contctepage .tellet h3 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+    color: #d2414a;
+}
+
+.contctepage .left p {
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 26px;
+    padding-left: 11%;
+}
+.contctepage .rrethg ul{
+    list-style: none;
+    padding-left: 0%;
+}
+.contctepage .rrethg ul li{
+    padding-left: 0%;
+    margin-bottom: 15px;
+}
+.contctepage .rrethg a {
+    color: #6e7f98;
+    font-size: 21px;
+    font-weight: 500;
+}
+.contctepage .rrethg a i {
+    color: #d2414a;
+    border: #D2414C solid 3px;
+    font-size: 25px;
+    padding: 6px;
+    border-radius: 45px;
+    margin-right: 28px;
+}
+.contctepage .left span {
+    color: #848484;
+    padding-left: 11%;
+    font-size: 11px;
+    font-weight: 700;
+}
+.contctepage .map_block {
+    margin-bottom: 43px;
+    margin-top: 30px;
+}
+
+.fh5co-overlay {
+    height: 0px;
+}
+.le_siteweb .element {
+    height: 680px;
+}
+.elemt__vudoi{
+    position: relative;
+}
+.elemt__vudoi .desc.animate-box.fadeInUp.animated {
+    position: absolute;
+    top: 255px;
+    left: 20%;
+    width: 72%;
+}video {
+    width: 100%;
+    height: 1238px;
+}
+.elemt__vudoi .desc.animate-box.fadeInUp.animated *{
+    color: rgb(255, 255, 255)!important;
+}
+header#fh5co-header-section {
+    background-color: #00000014;
+    padding-bottom: 20px;
+}
+.heading-section h2 {
+    margin-top: 40px;
+}
+.le_siteweb .btn:hover, .btn:active, .btn:focus {
+    background: #ffffff !important;
+    color: #fff !important;
+    outline: none !important;
+}
+.block2_p3 {
+    margin-top: -40px;
+}
+.elemt__vudoi .desc.animate-box.fadeInUp.animated p {
+    font-size: 23px;
+    font-weight: 800;
+}
+.elemt__vudoi .desc.animate-box.fadeInUp.animated h2 {
+    font-size: 61px;
+    font-weight: 800;
+    color: #1a2833;
+}
+div#myModal video {
+    width: 100%;
+    height: 694px;
+    margin-top: 49px;
+}
+.paje_activete_block2 img {
+    width: 99%;
+    height: 259px;
+}
+.block3p1 img {
+    width: 99%;
+    height: 290px;
+    margin-top: 35px;
+}
+.block3p1 {
+    background-color: whitesmoke;
+    margin-top: -99px;
+    padding-bottom: 44px;
+}
+.les__pack .block_les_flayell img {
+    width: 90%;
+    margin:  20px 4%;
+    height: 309px;
+}
+.les__pack .block_les_flayell h3 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    color: #4e5254;
+    font-family: auto;
+}
+.bakc__ee {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+.mobill{
+    display: none;
+}
+.palnning .program.program-schedule {
+    margin-bottom: 2em;
+    height: 146px;
+    padding: 27px;
+    background: #fff;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+.webjour{
+    display: block;
+}
+
+.ffooter h3 {
+    margin-bottom: 0px;
+    background-color: #e32e39;
+    color: #060606;
+    text-align: center;
+    font-size: 19px;
+    font-family: emoji;
+    font-style: italic;
+    padding: 7px;
+}
+.mobiljour{
+    display: none;
+}
+@media screen and (max-width: 650px) {
+    .webjour{
+        display: none;
+
+    }
+    .sselect.mobiljour select {
+        width: 100%;
+        height: 48px;
+        font-size: 27px;
+        color: #de4359;
+        border: none;
+        font-weight: 600;
+        padding-left: 3%;
+        border-radius: 16px;
+        background-color: #ffffff;
+        text-align: center;
+    }
+
+    .mobiljour{
+        display: block;
+    }
+    .mobill{
+        display: inline-block;
+    }
+    video {
+        width: 100%;
+        height: 378px;
+    }
+    .mune_site span.navbar-toggler-icon {
+        background-color: rgb(255, 255, 255);
+    }.mune_site span.navbar-toggler-icon i{
+        color: rgb(255, 0, 0);
+    }
+    .mune_site{
+        position: relative;
+    }
+    a.js-fh5co-nav-toggle.fh5co-nav-toggle {
+        display: none;
+    }
+    .mobill nav.navbar.navbar-expand-lg {
+        position: absolute;
+        z-index: 77777777777777777;
+        width: 14%;
+        top: 30px;
+        padding-left: 1px;
+        left: 70%;
+        padding-top: 7px;
+    }
+    .mobill nav.navbar.navbar-expand-lg ul.navbar-nav.ml-auto {
+        position: absolute;
+        left: -465%;
+        width: 296px;
+        top: 41px;
+        padding: 29px 26%;
+        background-color: white;
+        border-radius: 9px;
+    }
+    .avtivite {
+        padding-top: 84px;
+    }
+    .mune_site {
+        height: 0px;
+    }
+    .elemt__vudoi .desc.animate-box.fadeInUp.animated h2 {
+        font-size: 22px;
+        font-weight: 800;
+        color: #1a2833;
+        margin-bottom: 4px;
+    }
+
+    .elemt__vudoi .desc.animate-box.fadeInUp.animated p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+.elemt__vudoi .desc.animate-box.fadeInUp.animated {
+    position: absolute;
+    top: 152px;
+    left: 2%;
+    width: 90%;
+}
+div#myModal video {
+    width: 100%;
+    height: 347px;
+    margin-top: 49px;
+}
+
+.les__pack {
+    padding-top: 180px;
+}
+.heading-section {
+    margin-bottom: 4em;
+    padding: 6px;
+}
+.les__pack .block_les_flayell img {
+    width: 103%;
+    margin: 20px 4%;
+    height: 309px;
+}
+  
+
+.web header#fh5co-header-section {
+    background-color: #00000014;
+    padding-bottom: 20px;
+    margin-top: -34px;
+}
+}
+  
